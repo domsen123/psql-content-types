@@ -1,7 +1,7 @@
 # psql-content-types
 
 STEPS:
-1. Create qsql table `CREATE TABLE [your db name]`
+1. Create psql table `CREATE TABLE [your db name]`
 2. Create `.env` file (see `.env.example`)
 3. Run: `yarn`
 4. Run: `yarn build`
